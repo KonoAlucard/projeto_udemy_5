@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0; 
+}
+
+.header_wrraper {
+    background-color: black;
+    display: flex;
+    padding: 16px;
+    justify-content: space-between;
+
+}
+
+.header ol {
+    display: flex;
+    gap: 5px;
+    display: inline;
+    right: 500px;
+}
